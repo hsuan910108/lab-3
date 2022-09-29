@@ -18,14 +18,15 @@
   </ul>
  
  <h1 id="north">北部</h1>
+  <p>
+  1.寶島漫波義大利麵<br> &nbsp;辣味蒜香小卷義大利麵
+  </p>
+  <img src="https://example.com/media/photo.jpg" with="600" heigh="400" alt="一張圖片">
  <h2 id="west">中部</h2>
  <h3 id="south">南部</h3>
  <h4 id="east">東部</h4>
  
- #北部第一間 
- <p>
-  1.寶島漫波義大利麵
- </p>
+
 </main>
   
 </html>
