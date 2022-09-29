@@ -25,35 +25,35 @@
   <p>
   1.寶島漫波義大利麵<br> 辣味蒜香小卷義大利麵
   </p>
-  <img src="https://i.imgur.com/qbOyoR1.jpg" width=50px alt="一張圖片">
+  <img src="https://i.imgur.com/qbOyoR1.jpg" width=400px alt="一張圖片">
   <p>
   2.Afterhours&nbsp;Cafe<br>日本山形水蜜桃戚風 <br> 焦糖脆片戚風蛋糕
   </p>
-  <img src="https://i.imgur.com/qUSJ7h2.jpg" alt="一張圖片">
+  <img src="https://i.imgur.com/qUSJ7h2.jpg" width=400px alt="一張圖片">
   
  <h2 id="west">中部</h2>
   <p>
   1.小田生活 <br> 玫瑰生乳酪 <br> 伯爵生乳酪 <br> 抹茶拿鐵 <br> 美式咖啡
   </p>
-  <img src="https://i.imgur.com/15NmufM.jpg" alt="一張圖片">
+  <img src="https://i.imgur.com/15NmufM.jpg" width=400px alt="一張圖片">
   <p>
     
  <h3 id="south">南部</h3>
   <p>
   1.小北家灶咖ZAOKA <br> 鮮蝦野菇炊飯 <br> 自製香料香烤雞腿排 <br> 南洋風牛肉咖哩飯
   </p>
-  <img src="https://i.imgur.com/WgdCfpg.jpg" alt="一張圖片">
+  <img src="https://i.imgur.com/WgdCfpg.jpg" width=400px alt="一張圖片">
   
   
  <h4 id="east">東部</h4>
   <p>
   1.榕樹下米苔目 <br> 米苔目(小)(乾)
   </p>
-  <img src="https://i.imgur.com/7H1xC9o.jpg" alt="一張圖片">
+  <img src="https://i.imgur.com/NNlZfRR.jpg" width=400px alt="一張圖片">
   <p>
   2.玉里橋頭臭豆腐 <br> 臭豆腐(小份)
   </p>
-  <img src="https://i.imgur.com/10wj8M1.jpg" alt="一張圖片">
+  <img src="https://i.imgur.com/10wj8M1.jpg" width=400px alt="一張圖片">
 
 </main>
   
