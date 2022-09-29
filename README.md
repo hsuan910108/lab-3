@@ -1,6 +1,10 @@
 # lab-3
 <html>
   <h1>美食筆記本</h1>
+<style>
+  
+  
+</style>
 <main>
  <p>
   生活中的困擾，沒有甚麼是吃解決不了的！
@@ -21,7 +25,7 @@
   <p>
   1.寶島漫波義大利麵<br> 辣味蒜香小卷義大利麵
   </p>
-  <img src="https://i.imgur.com/qbOyoR1.jpg" alt="一張圖片">
+  <img src="https://i.imgur.com/qbOyoR1.jpg" width=50px alt="一張圖片">
   <p>
   2.Afterhours&nbsp;Cafe<br>日本山形水蜜桃戚風 <br> 焦糖脆片戚風蛋糕
   </p>
