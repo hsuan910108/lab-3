@@ -12,8 +12,7 @@
   
 <main>
  
-  <header class='c-header'>
-  <h1 class='c-header__title'>美食札記</h1>
+  <h1>美食札記</h1>
     
  <p>
   生活中的困擾，沒有甚麼是吃解決不了的！
@@ -23,7 +22,7 @@
  </p>
   
   <ul style="background-color:##f0e68c">
-   <li><a href="#north" ;class="injected-text">北部</a></li>
+   <li><a href="#north">北部</a></li>
    <li><a href="#west">中部</a></li>
    <li><a href="#south">南部</a></li>
    <li><a href="#east">東部</a></li>  
