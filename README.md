@@ -1,5 +1,6 @@
 <html>
   <h1>美食筆記本</h1>
+  
 <style>
  .injected-text {
     margin-bottom: -25px;
@@ -17,6 +18,16 @@
  <p>
   在這裡除了是自己的小小記錄之外，還想跟大家分享所有好吃的東西。
  </p>
+  
+  <header class='c-header'>
+  <h1 class='c-header__title'>美食札記</h1>
+  <nav class='c-navigation'>
+    <ul class='c-navigation__list'>
+      <li class='c-navigation__list-item c-navigation__list-item--active'><a href='#' title=''>北部</a></li>
+      <li class='c-navigation__list-item'><a href='#' title=''>中部</a></li>
+      <li class='c-navigation__list-item'><a href='#' title=''>南部</a></li>
+    </ul>
+  </nav>
   
   <h1>分類</h1>
   <ul style="background-color:##f0e68c">
