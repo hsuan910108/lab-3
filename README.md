@@ -21,17 +21,7 @@
  <p>
   在這裡除了是自己的小小記錄之外，還想跟大家分享所有好吃的東西。
  </p>
-    
-  <nav class='c-navigation'>
-    <ul class='c-navigation__list'>
-      <li class='c-navigation__list-item c-navigation__list-item--active'><a href='#' title=''>北部</a></li>
-      <li class='c-navigation__list-item'><a href='#' title=''>中部</a></li>
-      <li class='c-navigation__list-item'><a href='#' title=''>南部</a></li>
-      <li class='c-navigation__list-item'><a href='#' title=''>東部</a></li>
-    </ul>
-  </nav>
   
-  <h1>分類</h1>
   <ul style="background-color:##f0e68c">
    <li><a href="#north" ;class="injected-text">北部</a></li>
    <li><a href="#west">中部</a></li>
