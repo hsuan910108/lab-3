@@ -1,8 +1,10 @@
-# lab-3
 <html>
   <h1>美食筆記本</h1>
 <style>
-  
+ .injected-text {
+    margin-bottom: -25px;
+    text-align: center;
+  }
   
 </style>
   
@@ -18,7 +20,7 @@
   
   <h1>分類</h1>
   <ul style="background-color:##f0e68c">
-   <li><a href="#north">北部</a></li>
+   <li><a href="#north" ;class="injected-text">北部</a></li>
    <li><a href="#west">中部</a></li>
    <li><a href="#south">南部</a></li>
    <li><a href="#east">東部</a></li>  
