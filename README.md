@@ -17,7 +17,7 @@
  </p>
   
   <h1>分類</h1>
-  <ul style="background-color:#f1f1f1; list-style-type:none;">
+  <ul style="background-color:##f0e68c">
    <li><a href="#north">北部</a></li>
    <li><a href="#west">中部</a></li>
    <li><a href="#south">南部</a></li>
