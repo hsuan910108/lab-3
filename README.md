@@ -28,7 +28,7 @@
    <li><a href="#east">東部</a></li>  
   </ul>
  
- <h1 id="north">北部</h1>
+ <h1 id="north" style="color: red;">北部</h1>
   <p>
   1.寶島漫波義大利麵<br> 辣味蒜香小卷義大利麵
   </p>
