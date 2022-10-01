@@ -21,14 +21,14 @@
   在這裡除了是自己的小小記錄之外，還想跟大家分享所有好吃的東西。
  </p>
   
-  <ul style="background-color:##f0e68c">
+  <ul style="background-color:#f0e68c">
    <li><a href="#north">北部</a></li>
    <li><a href="#west">中部</a></li>
    <li><a href="#south">南部</a></li>
    <li><a href="#east">東部</a></li>  
   </ul>
  
- <h1 id="north" style="color: red;">北部</h1>
+ <h1 id="north">北部</h1>
   <p>
   1.寶島漫波義大利麵<br> 辣味蒜香小卷義大利麵
   </p>
