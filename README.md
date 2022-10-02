@@ -8,7 +8,7 @@
   
 </style>
   
-<body background="https://unsplash.com/photos/L9QoKLSCBNs"></body>
+<body background:#faebd7></body>
   
 <main>
  
