@@ -7,7 +7,7 @@
   }
  
   main{
- background-color: #faebd7;
+ background-color: #faf0e6;
  }
  
 </style>
