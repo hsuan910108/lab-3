@@ -12,9 +12,8 @@
  
 </style>
   
-<body background:#faebd7></body>
   
-<main>
+<body>
  
   <h1>美食札記</h1>
     
@@ -87,6 +86,6 @@
   <img src="https://i.imgur.com/10wj8M1.jpg" width=400px alt="一張圖片">
 
 
-</main>
+</body>
   
 </html>
