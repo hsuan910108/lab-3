@@ -5,7 +5,11 @@
     margin-bottom: -25px;
     text-align: center;
   }
-  
+ 
+  main{
+ background-color: #faebd7;
+ }
+ 
 </style>
   
 <body background:#faebd7></body>
@@ -48,7 +52,7 @@
    text-decoration: none;
  }
  
- <h1 id="north" font-size: 30px>北部</h1>
+ <h1 id="north">北部</h1>
   <p>
   1.寶島漫波義大利麵<br> 辣味蒜香小卷義大利麵
   </p>
@@ -58,21 +62,21 @@
   </p>
   <img src="https://i.imgur.com/qUSJ7h2.jpg" width=400px alt="一張圖片">
   
- <h2 id="west" font-size: 30px>中部</h2>
+ <h2 id="west">中部</h2>
   <p>
   1.小田生活 <br> 玫瑰生乳酪 <br> 伯爵生乳酪 <br> 抹茶拿鐵 <br> 美式咖啡
   </p>
   <img src="https://i.imgur.com/15NmufM.jpg" width=400px alt="一張圖片">
   <p>
     
- <h3 id="south" font-size: 30px>南部</h3>
+ <h3 id="south">南部</h3>
   <p>
   1.小北家灶咖ZAOKA <br> 鮮蝦野菇炊飯 <br> 自製香料香烤雞腿排 <br> 南洋風牛肉咖哩飯
   </p>
   <img src="https://i.imgur.com/WgdCfpg.jpg" width=400px alt="一張圖片">
   
   
- <h4 id="east" font-size: 30px>東部</h4>
+ <h4 id="east">東部</h4>
   <p>
   1.榕樹下米苔目 <br> 米苔目(小)(乾)
   </p>
@@ -82,17 +86,7 @@
   </p>
   <img src="https://i.imgur.com/10wj8M1.jpg" width=400px alt="一張圖片">
 
- <script src="https://cdn.jsdelivr.net/gh/dixonandmoe/rellax@master/rellax.min.js"></script>
- 
- <script>
-  // Accepts any class name
-  var rellax = new Rellax('.rellax');
-</script>
- 
- <div class="rellax">
-  I’m slow and smooth
-</div>
- 
+
 </main>
   
 </html>
