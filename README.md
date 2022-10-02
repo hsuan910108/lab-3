@@ -10,6 +10,10 @@
  background-color: #faf0e6;
  }
  
+ h1 {
+   font-size: 60px;
+   text-align: center;
+ }
 </style>
   
   
@@ -33,16 +37,16 @@
   </ul>
  </header>
  
- header ul
+ header.ul
  {
    position: relative;
    display: flex;
  }
- header ul li
+ header.ul.li
  {
    list-style: none;
  }
- header ul li a
+ header.ul.li.a
  {
    display: inline-block;
    color: #333;
