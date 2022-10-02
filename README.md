@@ -82,6 +82,17 @@
   </p>
   <img src="https://i.imgur.com/10wj8M1.jpg" width=400px alt="一張圖片">
 
+ <script src="https://cdn.jsdelivr.net/gh/dixonandmoe/rellax@master/rellax.min.js"></script>
+ 
+ <script>
+  // Accepts any class name
+  var rellax = new Rellax('.rellax');
+</script>
+ 
+ <div class="rellax">
+  I’m slow and smooth
+</div>
+ 
 </main>
   
 </html>
