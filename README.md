@@ -14,6 +14,21 @@
    font-size: 60px;
    text-align: center;
  }
+ 
+ h2 {
+   font-size: 60px;
+   text-align: center;
+ }
+ 
+ h3 {
+   font-size: 60px;
+   text-align: center;
+ }
+ 
+ h4 {
+   font-size: 60px;
+   text-align: center;
+ }
 </style>
   
   
@@ -36,24 +51,6 @@
    <li><a href="#east">東部</a></li>  
   </ul>
  </header>
- 
- header.ul
- {
-   position: relative;
-   display: flex;
- }
- header.ul.li
- {
-   list-style: none;
- }
- header.ul.li.a
- {
-   display: inline-block;
-   color: #333;
-   font-weight: 400;
-   margin-left:40px;
-   text-decoration: none;
- }
  
  <h1 id="north">北部</h1>
   <p>
