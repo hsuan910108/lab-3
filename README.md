@@ -30,6 +30,11 @@
    text-align: center;
  }
  
+ .green-text{
+   font-size: 60px;
+   color: #106B00;
+  }
+   
 </style>
   
   
@@ -54,7 +59,7 @@
  </header>
  
  
- <h1 id="north">北部</h1>
+ <h1 id="north" class="green-text">北部</h1>
   <p>
   1.寶島漫波義大利麵<br> 辣味蒜香小卷義大利麵
   </p>
