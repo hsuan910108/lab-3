@@ -7,7 +7,7 @@
   }
  
  body {
-      background-image: url('https://images.unsplash.com/photo-1665274493456-4654672a1fa5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80');
+      bgcolor:#E8E8D0;
     }
  
  h1 {
@@ -69,21 +69,21 @@
   </p>
   <img src="https://i.imgur.com/qUSJ7h2.jpg" width=400px alt="一張圖片">
   
- <h2 id="west">中部</h2>
+ <h2 id="west" class="green-text">中部</h2>
   <p>
   1.小田生活 <br> 玫瑰生乳酪 <br> 伯爵生乳酪 <br> 抹茶拿鐵 <br> 美式咖啡
   </p>
   <img src="https://i.imgur.com/15NmufM.jpg" width=400px alt="一張圖片">
   <p>
     
- <h3 id="south">南部</h3>
+ <h3 id="south" class="green-text">南部</h3>
   <p>
   1.小北家灶咖ZAOKA <br> 鮮蝦野菇炊飯 <br> 自製香料香烤雞腿排 <br> 南洋風牛肉咖哩飯
   </p>
   <img src="https://i.imgur.com/WgdCfpg.jpg" width=400px alt="一張圖片">
   
   
- <h4 id="east">東部</h4>
+ <h4 id="east" class="green-text">東部</h4>
   <p>
   1.榕樹下米苔目 <br> 米苔目(小)(乾)
   </p>
