@@ -6,7 +6,7 @@
     text-align: center;
   }
  
-  main{
+  body{
  background-color: #faf0e6;
  }
  
@@ -37,11 +37,6 @@
   
 <body>
  
- <style>
-    body {
-      background-image: url('[https://images.unsplash.com/photo-1665274493456-4654672a1fa5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80]');
-    }
-  </style>
  
   <h1>美食札記</h1>
     
