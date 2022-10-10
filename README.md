@@ -37,6 +37,12 @@
   
 <body>
  
+ <style>
+    body {
+      background-image: url('[https://images.unsplash.com/photo-1665274493456-4654672a1fa5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80]');
+    }
+  </style>
+ 
   <h1>美食札記</h1>
     
  <p>
@@ -54,6 +60,7 @@
    <li><a href="#east">東部</a></li>  
   </ul>
  </header>
+ 
  
  <h1 id="north">北部</h1>
   <p>
