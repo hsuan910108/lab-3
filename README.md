@@ -7,7 +7,7 @@
   }
  
  body {
-      bgcolor:#E8E8D0;
+      background-color:#E8E8D0;
     }
  
  h1 {
