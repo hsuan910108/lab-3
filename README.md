@@ -1,3 +1,8 @@
+<script>
+  $(document).ready(function() {
+  });
+</script>
+
 <html>
 
 <style>
