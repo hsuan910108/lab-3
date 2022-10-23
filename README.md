@@ -21,31 +21,13 @@ $(document).ready(function(){
       background-color:#E8E8D0;
     }
  
- h1 {
+
+ #north, #south, #east, #west {
    font-size: 60px;
    text-align: center;
- }
- 
- h2 {
-   font-size: 60px;
-   text-align: center;
- }
- 
- h3 {
-   font-size: 60px;
-   text-align: center;
- }
- 
- h4 {
-   font-size: 60px;
-   text-align: center;
- }
- 
- .green-text{
-   font-size: 60px;
    color: #106B00;
-  }
-  
+ }
+ 
  #describe, #list {
   padding: 5px;
   text-align: center;
@@ -83,7 +65,7 @@ $(document).ready(function(){
   
  
  
- <h1 id="north" class="green-text">北部</h1>
+ <h1 id="north">北部</h1>
   <p>
   1.寶島漫波義大利麵<br> 辣味蒜香小卷義大利麵
   </p>
@@ -93,21 +75,21 @@ $(document).ready(function(){
   </p>
   <img src="https://i.imgur.com/qUSJ7h2.jpg" width=400px alt="一張圖片">
   
- <h2 id="west" class="green-text">中部</h2>
+ <h2 id="west">中部</h2>
   <p>
   1.小田生活 <br> 玫瑰生乳酪 <br> 伯爵生乳酪 <br> 抹茶拿鐵 <br> 美式咖啡
   </p>
   <img src="https://i.imgur.com/15NmufM.jpg" width=400px alt="一張圖片">
   <p>
     
- <h3 id="south" class="green-text">南部</h3>
+ <h3 id="south">南部</h3>
   <p>
   1.小北家灶咖ZAOKA <br> 鮮蝦野菇炊飯 <br> 自製香料香烤雞腿排 <br> 南洋風牛肉咖哩飯
   </p>
   <img src="https://i.imgur.com/WgdCfpg.jpg" width=400px alt="一張圖片">
   
   
- <h4 id="east" class="green-text">東部</h4>
+ <h4 id="east">東部</h4>
   <p>
   1.榕樹下米苔目 <br> 米苔目(小)(乾)
   </p>
