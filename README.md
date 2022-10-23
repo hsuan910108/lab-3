@@ -1,5 +1,7 @@
 <script>
   $(document).ready(function() {
+  $("#target1").addClass("animated");
+
   });
 </script>
 
@@ -45,7 +47,7 @@
   
 <body>
   
-  <h1>美食札記</h1>
+  <h1 id="target1">美食札記</h1>
     
  <p>
   生活中的困擾，沒有甚麼是吃解決不了的！
