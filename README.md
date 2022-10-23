@@ -2,11 +2,11 @@
 </script>
 
 <script>
- $(document).ready(function() {
-  $("button").click(function(){
-    $("ul").hide();
-   });
-     });
+$(document).ready(function(){
+  $("#flip").click(function(){
+    $("#panel").slideToggle("slow");
+  });
+});
 </script>
 
 <html>
@@ -45,7 +45,18 @@
    font-size: 60px;
    color: #106B00;
   }
-   
+  
+ #describe, #list {
+  padding: 5px;
+  text-align: center;
+  background-color: #f0e68c;
+  border: solid 1px #c3c3c3;
+}
+
+#list {
+  padding: 50px;
+  display: none;
+}
 </style>
   
   
@@ -61,7 +72,8 @@
  </p>
  
  <header>
-  <ul id="test" style="background-color:#f0e68c">
+ <div id="describe">點選以查看或隱藏分類</div>
+  <ul id="list">
    <li><a href="#north">北部</a></li>
    <li><a href="#west">中部</a></li>
    <li><a href="#south">南部</a></li>
@@ -69,7 +81,7 @@
   </ul>
  </header>
   
- <button>點選以隱藏分類</button>
+ 
  
  <h1 id="north" class="green-text">北部</h1>
   <p>
