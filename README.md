@@ -62,7 +62,7 @@
  </p>
  
  <header>
-  <ul style="background-color:#f0e68c" id="test">
+  <ul id="test" style="background-color:#f0e68c">
    <li><a href="#north">北部</a></li>
    <li><a href="#west">中部</a></li>
    <li><a href="#south">南部</a></li>
