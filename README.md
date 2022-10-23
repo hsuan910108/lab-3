@@ -4,7 +4,8 @@
 
 <script>
   $(document).ready(function() {
-  $("#target1").addClass("animated");
+  $("button").click(function(){
+    $("#test").hide();
 
   });
 </script>
@@ -51,7 +52,7 @@
   
 <body>
   
-  <h1 id="target1">美食札記</h1>
+  <h1>美食札記</h1>
     
  <p>
   生活中的困擾，沒有甚麼是吃解決不了的！
@@ -61,14 +62,15 @@
  </p>
  
  <header>
-  <ul style="background-color:#f0e68c">
+  <ul style="background-color:#f0e68c" id="test">
    <li><a href="#north">北部</a></li>
    <li><a href="#west">中部</a></li>
    <li><a href="#south">南部</a></li>
    <li><a href="#east">東部</a></li>  
   </ul>
  </header>
- 
+  
+ <button>點選以隱藏分類</button>
  
  <h1 id="north" class="green-text">北部</h1>
   <p>
