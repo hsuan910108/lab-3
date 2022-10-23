@@ -3,8 +3,8 @@
 
 <script>
 $(document).ready(function(){
-  $("#flip").click(function(){
-    $("#panel").slideToggle("slow");
+  $("#describe").click(function(){
+    $("#list").slideToggle("slow");
   });
 });
 </script>
